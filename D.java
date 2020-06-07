@@ -28,5 +28,8 @@ public class D {
 
     public static void MD3()  {
         System.out.println("MD3");
+
+    public static void MD4()  {
+        System.out.println("MD4");
     }
 }
